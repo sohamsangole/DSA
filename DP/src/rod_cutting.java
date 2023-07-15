@@ -38,8 +38,8 @@ public class rod_cutting {
     }
 
     public static void main(String[] args) {
-        int price[] = new int[] { 1, 5, 8, 9, 10, 17, 17, 20 };
-        int n = price.length;
+        int price[] = new int[] {1,3,4,5};
+        int n = 7;
         System.out.println(cutRod(price,n));
     }
 }
