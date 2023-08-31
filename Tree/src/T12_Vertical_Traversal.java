@@ -37,6 +37,7 @@ public class T12_Vertical_Traversal {
         int numColumns = list.get(list.size()-1).get(0)- list.get(0).get(0) + 1 ;
         list.sort(Comparator.comparing(l -> l.get(1)));
 //        System.out.println(list);
+
         List<List<Integer>> ansList = new LinkedList<>();
         int a = (numColumns-1)/2;
         int b = -a;
