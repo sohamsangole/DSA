@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Tree/Binary Search Tree.iml" filepath="$PROJECT_DIR$/Binary Search Tree/Binary Search Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Company Wise/Company Wise.iml" filepath="$PROJECT_DIR$/Company Wise/Company Wise.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching &amp; Sorting Algorithms/Searching &amp; Sorting Algorithms.iml" filepath="$PROJECT_DIR$/Searching &amp; Sorting Algorithms/Searching &amp; Sorting Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
